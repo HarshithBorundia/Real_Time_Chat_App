@@ -3,9 +3,9 @@ I made a real time chat application so that users can chat with a group of peopl
 FEATURING THE FASTEST AND MOST RELIABLE REAL-TIME ENGINE
 Please note that the application code is written in Javascript ES6.
 
-Prerequisites:
-Basics of Socket.IO Socket.IO
+**Prerequisites:**
+Basics of Socket.IO socket.io
 
 Javascript ES6 ES6
 
-Using WebSockets WebSockets
+Using WebSockets 
